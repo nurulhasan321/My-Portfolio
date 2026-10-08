@@ -1,0 +1,1 @@
+The supplied CV is included here as `Nurul_Hasan_cv.pdf`, and the portfolio portrait as `nurul-hasan.jpg`. Replace either file to update the site assets. The Download CV button points to `/Nurul_Hasan_cv.pdf`.
